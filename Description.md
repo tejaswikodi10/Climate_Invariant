@@ -37,13 +37,20 @@ All code is written in Python and uses popular libraries like numpy, pandas, skl
 Software Requirements:
 
 Python 3.8 or higher
+
 TensorFlow 2.6+
+
 Keras 2.8+
+
 NumPy
+
 OpenCV
+
 Matplotlib
+
 Scikit-learn
-CUDA Toolkit (for GPU acceleration
+
+CUDA Toolkit (for GPU acceleration0
 
 𝙏𝙤 𝙞𝙣𝙨𝙩𝙖𝙡𝙡 𝘿𝙚𝙥𝙚𝙣𝙙𝙚𝙣𝙘𝙞𝙚𝙨, 𝙧𝙪𝙣
 
