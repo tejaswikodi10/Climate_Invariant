@@ -4,7 +4,7 @@ This project applies a machine learning approach to analyze a dataset related to
 
 Keywords
 
-Machine Learning, Linear Regression, Town Code Prediction, Model Evaluation Metrics, Visualization,Python
+Machine Learning, Linear Regression, Town Code Prediction, Model Evaluation Metrics, Visualization, Python
 
 About Dataset
 
