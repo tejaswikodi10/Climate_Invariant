@@ -1,6 +1,6 @@
- 𝘼𝙗𝙨𝙩𝙧𝙖𝙘𝙩
+𝘼𝙗𝙨𝙩𝙧𝙖𝙘𝙩
 
-This project applies a machine learning approach to analyze a dataset related to towns in Andhra Pradesh, India. The Linear Regression model is utilized to predict the town codes based on district codes and related identifiers. Various evaluation metrics, including Mean Squared Error (MSE), R-squared (R²), F1-score, and confusion matrix analysis, are used to assess the model's performance. The project also incorporates extensive visualizations to understand feature relationships, model behavior, and prediction outcomes.
+This project applies a machine learning approach to analyze a dataset related to towns in Andhra Pradesh, India. The Linear Regression model predicts the town codes based on district codes and related identifiers. Various evaluation metrics, including Mean Squared Error (MSE), R-squared (R²), F1-score, and confusion matrix analysis, are used to assess the model's performance. The project also incorporates extensive visualizations to understand feature relationships, model behavior, and prediction outcomes.
 
 
 𝙆𝙚𝙮𝙬𝙤𝙧𝙙𝙨
