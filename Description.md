@@ -53,10 +53,16 @@ pip install tensorflow keras numpy opencv-python matplotlib scikit-learn nibabel
 
 Recommended Hardware
 GPU: NVIDIA RTX 3080 or higher (for optimal performance)
+
 CPU: Intel i7 or AMD Ryzen 7 (or equivalent)
+
 RAM: 32 GB or more
+
 Storage: Minimum 500 GB SSD (for faster data processing)
+
 Operating System
+
 Linux (Ubuntu 20.04+ recommended) or Windows 10/11
 Server Environment
+
 NVIDIA CUDA drivers and cuDNN installed for GPU acceleration
